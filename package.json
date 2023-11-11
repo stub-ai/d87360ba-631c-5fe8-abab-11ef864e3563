@@ -1,0 +1,13 @@
+{
+  "name": "conways-game-of-life",
+  "version": "1.0.0",
+  "description": "A web application for Conway's Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'No build step'"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
